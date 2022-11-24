@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/task2/2-pass.iml" filepath="$PROJECT_DIR$/task2/2-pass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/praca zaliczeniowa coderslab.iml" filepath="$PROJECT_DIR$/.idea/praca zaliczeniowa coderslab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task1/taskToPass1.iml" filepath="$PROJECT_DIR$/task1/taskToPass1.iml" />
+    </modules>
+  </component>
+</project>
